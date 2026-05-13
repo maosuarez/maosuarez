@@ -1,46 +1,74 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full-Stack+Developer;Automation+%7C+AI+%7C+Backend;Building+cool+things+%F0%9F%9A%80"/>
-  </a>
-</div>
+# Mao Suarez
+
+Colombian software engineer focused on automation, AI-assisted workflows, and practical developer tooling.
+
+I care about useful systems.
+
+If something is repetitive, fragile, or unnecessarily manual, I want to redesign it.
+
+I’m more interested in solving the problem properly than proving I can implement it.
 
 ---
 
-## 🧠 About Me
+## What I’m Building
 
-- 🔭 Currently working on **AI-powered automation tools**
-- 🌱 Exploring **multi-agent architectures & n8n**
-- 🇨🇴 Based in Colombia
-- 💬 Ask me about **Python, FastAPI, Docker, K8s**
+### crypt-env
+Open-source tooling for environment variable and token management.
 
----
+Built to simplify how developers store, inject, and manage secrets across local workflows and projects without unnecessary friction.
 
-## 🛠 Tech Stack
+→ <PRIVATE_URL>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,nextjs,postgres,n8n&theme=dark"/>
-</div>
+### Local Tooling & Automation
+Utilities, scripts, and workflow systems designed to remove repetitive work from day-to-day development.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maosuarez&theme=tokyonight&hide_border=true"/>
-</div>
+Focused on:
+- automation
+- developer experience
+- AI-assisted workflows
+- operational simplicity
 
 ---
 
-## 🏆 Trophies
+## What I Work With
 
-<div align="center">
-  <img src="https://github-profile-trophy-seven-omega.vercel.app/?username=maosuarez&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
+- AI-assisted engineering workflows
+- Claude Code & agent-based development
+- Backend systems
+- Azure infrastructure
+- Power Automate & n8n orchestration
+- Next.js applications
+- Developer tooling
+- Automation systems
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</div>
+## How I Think
+
+- utility over hype
+- systems over shortcuts
+- automation over repetition
+- clarity over complexity
+- AI as leverage, not decoration
+
+I use AI as an operational tool — not as a chatbot.
+
+My focus is building workflows that stay maintainable, understandable, and scalable instead of generating fast but fragile code.
+
+---
+
+## Current Focus
+
+- AI-integrated development workflows
+- Local-first tooling
+- Automation infrastructure
+- Improving developer productivity
+- Building systems that solve real operational problems
+
+---
+
+## Outside Tech
+
+I enjoy chess, tennis, and building systems that make everyday work more efficient.
+
+Currently studying computer engineering while building practical tools and workflows in parallel.
