@@ -17,7 +17,7 @@ Open-source tooling for environment variable and token management.
 
 Built to simplify how developers store, inject, and manage secrets across local workflows and projects without unnecessary friction.
 
-→ (Repo URL)[https://github.com/maosuarez/crypt-env]
+→ [Repo URL](https://github.com/maosuarez/crypt-env)
 
 ### Local Tooling & Automation
 Utilities, scripts, and workflow systems designed to remove repetitive work from day-to-day development.
