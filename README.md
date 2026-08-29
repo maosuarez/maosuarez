@@ -22,6 +22,6 @@ Colombian software engineer focused on **automation, AI-assisted workflows, and 
 
 ## Reach me
 
-🌐 [maosuarez-profile.vercel.app](https://maosuarez-profile.vercel.app) · 💻 [github.com/maosuarez](https://github.com/maosuarez)
+📫 [maosuarezbarrer@gmail.com](mailto:maosuarezbarrer@gmail.com) · 💼 [linkedin.com/in/maosuarez-dev](https://www.linkedin.com/in/maosuarez-dev) · 🌐 [maosuarez-profile.vercel.app](https://maosuarez-profile.vercel.app)
 
 <sub>Outside tech: chess, tennis, and studying computer engineering.</sub>
