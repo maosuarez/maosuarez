@@ -1,74 +1,27 @@
-# Mao Suarez
+# Hi, I'm Mao 👋
 
-Colombian software engineer focused on automation, AI-assisted workflows, and practical developer tooling.
+Colombian software engineer focused on **automation, AI-assisted workflows, and developer tooling**. AI-native workflow (I build with **Claude Code** daily), used as a layer over engineering judgment, not a black box.
 
-I care about useful systems.
+- 🔐 Building **CryptEnv** — a local-first encrypted secrets vault for developers: Rust · Tauri · MCP · hotkey access
+- 🛠️ Comfortable across the stack: Next.js/React, FastAPI, Rust/Tauri, Docker, Azure infra, n8n & Power Automate orchestration
+- 🧠 LLMs in production: agent-based development, structured outputs, provider-agnostic (Anthropic / Gemini)
 
-If something is repetitive, fragile, or unnecessarily manual, I want to redesign it.
+## Featured projects
 
-I’m more interested in solving the problem properly than proving I can implement it.
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| **CryptEnv** | Local-first encrypted secrets vault, hotkey access | Rust, Tauri, MCP | [repo](https://github.com/maosuarez/CryptEnv) |
+| **AgendaU** | Conflict-free class schedule generator (live) | Next.js, FastAPI, Docker | [live](https://agenda-u-psi.vercel.app) · [repo](https://github.com/maosuarez/AgendaU) |
+| **sabana-corp-cloud** | Automated CTF cyber-range lab on Azure (VPN, DNS, CTFd) | Bash, Azure, WireGuard, IaC | [repo](https://github.com/maosuarez/sabana-corp-cloud) |
+| **KodaVision** | AI smart glasses for the visually impaired (Gemini hackathon) | Python, Gemini 2.5, YOLOv8, OCR | [repo](https://github.com/maosuarez/KodaVision) |
+| **CodeArena** | Real-time competitive programming platform with auto-scoring | Next.js, Judge0, WebSocket, MongoDB | [live](https://code-arena-platform-delta.vercel.app) · [repo](https://github.com/maosuarez/CodeArena) |
 
----
+## Stack
 
-## What I’m Building
+`TypeScript` · `Python` · `Rust` · `React` · `Next.js` · `FastAPI` · `Tauri` · `PostgreSQL` · `Supabase` · `Docker` · `Azure` · `MCP`
 
-### crypt-env
-Open-source tooling for environment variable and token management.
+## Reach me
 
-Built to simplify how developers store, inject, and manage secrets across local workflows and projects without unnecessary friction.
+🌐 [maosuarez-profile.vercel.app](https://maosuarez-profile.vercel.app) · 💻 [github.com/maosuarez](https://github.com/maosuarez)
 
-→ [Repo URL](https://github.com/maosuarez/crypt-env)
-
-### Local Tooling & Automation
-Utilities, scripts, and workflow systems designed to remove repetitive work from day-to-day development.
-
-Focused on:
-- automation
-- developer experience
-- AI-assisted workflows
-- operational simplicity
-
----
-
-## What I Work With
-
-- AI-assisted engineering workflows
-- Claude Code & agent-based development
-- Backend systems
-- Azure infrastructure
-- Power Automate & n8n orchestration
-- Next.js applications
-- Developer tooling
-- Automation systems
-
----
-
-## How I Think
-
-- utility over hype
-- systems over shortcuts
-- automation over repetition
-- clarity over complexity
-- AI as leverage, not decoration
-
-I use AI as an operational tool — not as a chatbot.
-
-My focus is building workflows that stay maintainable, understandable, and scalable instead of generating fast but fragile code.
-
----
-
-## Current Focus
-
-- AI-integrated development workflows
-- Local-first tooling
-- Automation infrastructure
-- Improving developer productivity
-- Building systems that solve real operational problems
-
----
-
-## Outside Tech
-
-I enjoy chess, tennis, and building systems that make everyday work more efficient.
-
-Currently studying computer engineering while building practical tools and workflows in parallel.
+<sub>Outside tech: chess, tennis, and studying computer engineering.</sub>
